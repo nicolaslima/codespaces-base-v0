@@ -1,0 +1,7 @@
+__pycache__
+testsigma
+node_modules
+.cubestore
+appsmith/stacks
+notebooks/github/trufflehog
+logs
